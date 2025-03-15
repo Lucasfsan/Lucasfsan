@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Lucas Santos!
 - 🌱 I’m currently learning Java, Springboot, Kotling and Android Development
-- 📚 Analysis and Systems Delopment student 
+- 📚 Multiplatform Software Development 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really want to create mobile apps and I also LOVE horror movies 👻
 
