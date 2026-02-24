@@ -1,7 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF2C34&height=120&section=header"/>
+
 ## 👋 Hi, I’m Lucas Santos!
-- 🌱 I’m currently learning Java, Springboot, Kotling and Android Development
+- 🌱 I’m currently learning Python, SQL, R and Data Science
 - 📚 Multiplatform Software Development 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really want to create mobile apps and I also LOVE horror movies 👻
 
 
